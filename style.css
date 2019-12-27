@@ -1,0 +1,42 @@
+<style>
+form,form *{
+    width:100%;
+    margin-top: 15px;
+    padding: 10px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 2px solid navy;
+    
+}
+input:hover{
+    background-color: powderblue;
+}
+#temail{
+    font-size: :large;
+}
+ul{
+    list-style-type: none;
+   
+}
+a{
+    text-decoration: none;
+}
+li{
+
+    background-color: lightsteelblue;
+    display:inline;
+}
+li:hover{
+    background-color: black;
+}
+img{
+    display: inline-block;
+    opacity: 0.5;
+}
+
+img:hover{
+    opacity: 1;
+}
+
+</style>
